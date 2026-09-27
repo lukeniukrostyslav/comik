@@ -2,35 +2,79 @@
 
 Overall verified progress: **21%**
 
-## Completed
-- Story/world bible
-- Character continuity rules
-- 24-page story architecture
-- Russian and English dialogue copy
-- Visual style lock
-- Standalone-page requirements
-- Typesetting specification
-- Continuity QA
-- Final image quality gate
-- Final PDF/CBZ/ZIP assembly specification
+## Detailed block status
 
-## Not yet completed
-- 24 final Russian artwork pages
-- 24 final English artwork pages
-- 2 final covers
-- Typesetting on approved artwork
-- Full RU/EN PDF
-- Full RU/EN CBZ
-- Final ZIP
-- Final release QA
+### B01–B12 — Production foundation: **100% each**
+- B01 Concept & commercial brief — 100%
+- B02 Story & world — 100%
+- B03 24-page architecture — 100%
+- B04 Russian copy — 100%
+- B05 English copy — 100%
+- B06 Visual direction — 100%
+- B07 Page prompt system — 100%
+- B08 Continuity QA specification — 100%
+- B09 Typesetting specification — 100%
+- B10 Automatic image gate — 100%
+- B11 Final assembly specification — 100%
+- B12 Production logging & repository architecture — 100%
+
+### B13 — Final artwork production: **0%**
+- Cover — 0/1
+- Russian pages — 0/24
+- English pages — 0/24
+- Visual continuity approval — 0%
+- Final artwork export — 0%
+
+### B14 — Russian issue assembly: **0%**
+- 24 approved pages — 0/24
+- Text placement — 0%
+- Sequence — 0%
+- PDF — 0%
+- CBZ — 0%
+
+### B15 — English issue assembly: **0%**
+- 24 approved pages — 0/24
+- Text placement — 0%
+- Sequence — 0%
+- PDF — 0%
+- CBZ — 0%
+
+### B16 — Cross-language QA: **0%**
+- RU/EN page matching — 0%
+- Dialogue matching — 0%
+- Missing-page check — 0%
+- Openability — 0%
+
+### B17 — Commercial package QA: **0%**
+- Individual pages — 0%
+- PDFs — 0%
+- CBZs — 0%
+- README/metadata — 0%
+- ZIP integrity — 0%
+
+### B18 — Final release gate: **0%**
+- 48 final pages pass gate — 0%
+- Sequence pass — 0%
+- Visual continuity pass — 0%
+- Text overflow pass — 0%
+- Final package pass — 0%
+
+### B19 — Final ZIP delivery: **0%**
+- Build — 0%
+- Integrity check — 0%
+- Final artifact — 0%
+
+## Current verified facts
+- Final Russian pages: **0/24**
+- Final English pages: **0/24**
+- Final covers: **0/2**
+- Final ZIP: **NOT READY**
+- Pilot assets: **excluded**
+- Contact-sheet/crop assets: **excluded**
+- Image gate syntax check: **PASS**
+- Assembly script: **correctly blocks when final pages are missing**
 
 ## Strict counting rule
-A page is counted as finished only after:
-1. standalone full-page artwork exists;
-2. continuity and anatomy pass;
-3. no accidental lettering/artifacts;
-4. resolution and metadata pass;
-5. dialogue/typesetting pass;
-6. final openability/integrity check passes.
+A page is counted only after standalone artwork, continuity/anatomy QA, artifact check, resolution/metadata check, typesetting, and final openability/integrity checks pass.
 
-Intermediate previews and contact sheets never count as final pages.
+Intermediate previews, crops, contact sheets, and pilot assets never count as final pages.
