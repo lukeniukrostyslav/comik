@@ -92,3 +92,11 @@ Intermediate previews, crops, contact sheets, and pilot assets never count as fi
 - Created the master generation queue for **24 RU + 24 EN = 48 standalone outputs**.
 - Final artwork counters remain **0/24 RU, 0/24 EN** until actual standalone artwork passes QA.
 - No pilot/contact-sheet assets are eligible for final delivery.
+
+
+## P01 generation checkpoint
+- P01 standalone artwork generation: **completed**.
+- Output: 1664×2496 PNG, 2:3.
+- Generated without contact-sheet layout.
+- **Not yet counted as final** until artifact/visual/continuity/typesetting/integrity QA is completed.
+- OpenArt remaining balance reported before generation: 10 credits; this generation consumed the available 10-credit allocation.
