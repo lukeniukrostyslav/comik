@@ -85,3 +85,10 @@ Intermediate previews, crops, contact sheets, and pilot assets never count as fi
 - Final artwork inventory: **0/24 RU + 0/24 EN + 0/2 covers**.
 - Release assembly correctly remains blocked.
 - Intermediate images/contact sheets are explicitly excluded from final counting and delivery.
+
+
+## 2026-09-27 production queue
+- Verified all **24** master page prompts are present and non-empty.
+- Created the master generation queue for **24 RU + 24 EN = 48 standalone outputs**.
+- Final artwork counters remain **0/24 RU, 0/24 EN** until actual standalone artwork passes QA.
+- No pilot/contact-sheet assets are eligible for final delivery.
