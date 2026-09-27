@@ -78,3 +78,10 @@ Overall verified progress: **21%**
 A page is counted only after standalone artwork, continuity/anatomy QA, artifact check, resolution/metadata check, typesetting, and final openability/integrity checks pass.
 
 Intermediate previews, crops, contact sheets, and pilot assets never count as final pages.
+
+## 2026-09-27 QA checkpoint
+- Final-page gate executed locally: **PASS (validator runs)**.
+- Python compilation of page gate and assembly tools: **PASS**.
+- Final artwork inventory: **0/24 RU + 0/24 EN + 0/2 covers**.
+- Release assembly correctly remains blocked.
+- Intermediate images/contact sheets are explicitly excluded from final counting and delivery.
